@@ -12,7 +12,22 @@ It helps new developers understand a project’s structure quickly and get start
 - 🌍 **Framework Agnostic** → Works with multiple languages (extensible).  
 
 ---
-
+### To use this CLI(run this cmd in Command Pormpt):
+```bash
+npm i codezgen-cli
+```
+or
+Download as global to use in CMD Prompt to Analyse the Projects:
+```bash
+npm install -g my-cli
+```
+### And these Command one by one:
+```bash
+codezgen scan
+codezgen proj-struct
+codezgen e-file-imports
+```
+---
 ## ⚡ Getting Started  
 
 ### 1. Clone the repo  
